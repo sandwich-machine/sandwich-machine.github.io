@@ -1,5 +1,3 @@
-<h1 align="center">Sandwich-Machine</h1>
-
 # About
 Leaders in sandwich innovation!
 
