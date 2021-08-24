@@ -1,7 +1,7 @@
 <h1 align="center">Sandwich-Machine</h1>
 
 # About
-A generator to generate random sandwiches
+Leaders in sandwich innovation!
 
 # Credits
 
