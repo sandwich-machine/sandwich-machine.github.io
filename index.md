@@ -1,19 +1,5 @@
-# About
-Leaders in sandwich innovation!
-
-# Credits
-
-[Soup](https://github.com/SoupDevHub) - Main development, Documentation
-> OS: Windows
->
-> Langs: JS, Python, Does C# off github
->
-> Fun Fact: He called his projects "Trash projects".. even though I think they're awesome!
-
-
-[electron271](https://github.com/electron271) - Development, Documentation, Linux testing and Github Actions
-> OS: Linux
-> 
-> Langs: Shell, Rust, C++, used to do Python
-> 
-> Fun Fact: I think my projects are trash also..
+# Projects
+## Sandwich Machine
+The project that started it all!
+[View source code here](https://github.com/sandwich-machine/sandwich-machine)
+[Download latest release](https://github.com/sandwich-machine/sandwich-machine/releases)
