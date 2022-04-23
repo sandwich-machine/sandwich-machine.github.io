@@ -1,3 +1,7 @@
-body{
+body h1{
+  margin: 25px;
+}
+
+body p{
   margin: 25px;
 }
