@@ -1,9 +1,8 @@
-body h2{
-  margin: 0, 100px;
+body h2 {
+  margin: auto;
   font-size: 2 em;
-  align: center;
 }
 
-body p{
+body p {
   margin: 0, 100px;
 }
